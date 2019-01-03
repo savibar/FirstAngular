@@ -1,2 +1,0 @@
-# FirstAngular
-Created with CodeSandbox
